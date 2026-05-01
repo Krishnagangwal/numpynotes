@@ -1,9 +1,5 @@
 Basic learnings about Numpy - 
 
-Here's a comprehensive `01-basics.md` file for your NumPy notes:
-
-```markdown
-# NumPy Basics
 
 ## What is NumPy?
 
