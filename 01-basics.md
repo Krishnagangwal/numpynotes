@@ -269,12 +269,3 @@ Try these yourself:
 6. Create an array of 10 random integers between 1 and 100
 7. Reshape a 1D array [0,1,2,3,4,5,6,7,8,9,10,11] into a 3x4 matrix
 8. Check the shape, dtype, and size of your created arrays
-
-## Key Takeaways
-
-✅ NumPy is much faster than Python lists for numerical operations
-✅ Arrays must have the same data type (homogeneous)
-✅ Use `np.array()` to create from lists, or built-in functions for special arrays
-✅ Important attributes: `.shape`, `.ndim`, `.size`, `.dtype`
-✅ Use `.copy()` when you need an independent copy
-✅ Reshaping doesn't change the data, just its organization
